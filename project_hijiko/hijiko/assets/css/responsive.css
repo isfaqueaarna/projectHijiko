@@ -1,0 +1,378 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width:1366px){
+.code-box{ margin: 10px 0;float: none;}
+	
+}
+
+/*========================================================================================*/
+
+
+@media only screen and (max-width:1280px){
+.code-box{ margin: 10px 0;float: none;}
+	
+}
+
+/*========================================================================================*/
+
+@media only screen and (max-width:1024px){
+	.hotdeal-area > .country-area > ul > li{width: 22%;}
+	
+	/*top nav area css*/
+	
+	.search-area{ margin-top:15px;}
+	.cart-area{margin-top: 17px;}
+	.cart-count{margin-right: 46px;margin-top: 1px;}
+	.user-img{ margin-right: 0px;}
+	.user-drop{width:20%;}
+	
+		/*shopsetting page css*/
+	
+	.add-lk-map{padding-left:33%; padding-top: 22%;}
+	.map-logo-box{width: 30%;}
+	.add-lk-map > .add-map{ width: 45%;}
+	.shop-st-ab .btn-primary{ margin: 0px 0 0 15px;}
+	.shop-st-lng p{ float: left; width: 100%;}
+	
+	.Local-Del-box .input-append, .input-prepend{ float: left; width: 100%; margin-bottom: 15px;}
+.PostL5{font-size: 15px;}
+.ALinks	{font-size: 15px;}
+		.idhideBox4 > h2{font-size:16px;}
+		.subtext{ font-size: 16px; padding-left: 15px;}
+		.ftr-inner{ height: auto;}
+	
+	/*shopdesign page css*/
+	
+	.AlsoContact > ul > li{ margin-bottom: 15px; width: 100%;}
+}
+
+/*========================================================================================*/
+
+
+@media only screen and (max-width:960px){
+	.hotdeal-area > .country-area > ul > li{width: 22%;}
+	
+	/*top nav area css*/
+	
+	.search-area{ margin-top:15px; width: 70%;}
+	.cart-area{margin-top: 17px;}
+	.cart-count{margin-right: 46px;margin-top: 1px;}
+	.user-img{ margin-right: 0px;}
+	.user-drop{width:27%;}
+	
+	.pickup-proces-box > .sml-title{  font-size: 16px;padding: 77px 15px 5px;}
+	.pickup-proces-box > .big-title{ font-size: 22px;}
+	
+	.fashion-inner > .fashion-inner-con > h3{font-size: 17px;}
+	.fashion-sec > h2{font-size: 19px;}
+	.fashion-inner > .fashion-inner-con > p{font-size: 13px;}
+	.uk-d-img{ float: none; margin: 8px auto;}
+	.uk-d-img-left {float: none;width: 100%;}
+	.Inner_Deal > ul > li {margin-right: 15px; width:25%;}
+}
+
+
+/*========================================================================================*/
+
+@media only screen and (max-width:853px){
+	.hotdeal-area > .country-area > ul > li {width: 29%;}
+	
+	/*top nav area css*/
+	
+	.search-area{ margin-top: 15px; width: 85%;}
+	.cart-area{margin-top: 9px;}
+	.cart-count{margin-right: 46px;margin-top: -8px;}
+	.user-img{ margin-right: 0px;}
+	.user-drop{width:27%;}
+	
+	
+	/*picup red area css*/
+	
+	.pickup-proces-box > .sml-title{ font-size: 17px; padding: 67px 15px 3px;}
+	.pickup-proces-box > .big-title{font-size: 26px;}
+	
+	/*delivery area css*/
+	.dlv-box{ padding: 30px 69px;}
+	
+	/*step3 page css*/
+	
+	.chk{ margin: 20px 0;display: table; float: none;}
+	.signup-div h4{ font-size: 15px;}
+	
+	/*shopsetting page css*/
+	
+	.add-lk-map{padding-left: 29%; padding-top: 31%;}
+	.map-logo-box{width: 40%;}
+	.add-lk-map > .add-map{ width: 81%;}
+	.shop-st-ab .btn-primary{ margin: 0px 0 0 15px;}
+	.shop-st-lng p{ float: left; width: 100%;}
+	
+	.Local-Del-box .input-append, .input-prepend{ float: left; width: 100%; margin-bottom: 15px;}
+.PostL5{font-size: 15px;}
+.ALinks	{font-size: 15px;}
+		.idhideBox4 > h2{font-size:16px;}
+		.subtext{ font-size: 16px; padding-left: 15px;}
+		.ftr-inner{ height: auto;}
+	
+}
+
+
+/*========================================================================================*/
+
+@media only screen and (max-width:768px){
+	
+	
+	
+}
+
+
+
+
+/*========================================================================================*/
+
+@media only screen and (max-width:736px){
+	.hotdeal-area > .country-area > ul > li{width: 29%;}
+	
+	
+		/*top nav area css*/
+	
+	.logo-area{text-align: center;}
+	.search-area{ width: 100%; float: none; }
+	.src-fld{width: 100%; float: none;}
+	.spr_selector{ width: 87.2%;border-left: medium none;}
+	.cart-area{ position: absolute;margin-top: 21px;}
+	.cart-count{margin-right: 31px; margin-top: -9px;}
+	.nav-area{ margin-top: 0px;}
+	
+		
+/*shopsetting page css*/
+	
+	.add-lk-map{padding-left: 29%; padding-top: 31%;}
+	.map-logo-box{width: 40%;}
+	.add-lk-map > .add-map{ width: 81%;}
+	.shop-st-ab .btn-primary{ margin: 0px 0 0 15px;}
+	.shop-st-lng p{ float: left; width: 100%;}
+	
+	.Local-Del-box .input-append, .input-prepend{ float: left; width: 100%; margin-bottom: 15px;}
+.PostL5{font-size: 15px;}
+.ALinks	{font-size: 15px;}
+		.idhideBox4 > h2{font-size: 18px;}
+		.subtext{ font-size: 16px; padding-left: 15px;}
+		.ftr-inner{ height: auto;}
+	
+	
+	
+}
+
+/*========================================================================================*/
+
+@media only screen and (max-width:690px){
+	.hotdeal-area > .country-area > ul > li{width: 29%;}
+	
+}
+
+/*========================================================================================*/
+
+@media only screen and (max-width:667px){
+	.hotdeal-area > .country-area > ul > li{width: 29%;}
+	
+	/*top nav area css*/
+	
+	.logo-area{text-align: center;}
+	.search-area{ width: 100%; float: none; }
+	.src-fld{width: 100%; float: none;}
+	.spr_selector{ width: 87.2%;border-left: medium none;}
+	.cart-area{ position: absolute;margin-top: 21px;}
+	.cart-count{margin-right: 31px; margin-top: -9px;}
+	.nav-area{ margin-top: 0px;}
+	
+	
+	/*footer css*/
+
+	.ftr-social > ul > li > a{ margin-left: 0px;}
+	.tfr-btm{ text-align: center;}
+	.ftr-social{ text-align: center;}
+	.ftr-social > ul > li > a{font-size: 15px;}
+	.ftr-social > ul > li{display: table-cell; float: none;}
+	.ftr-social > ul{display: inline-table;float: none;}
+	.ftr-inner{ height: auto;}
+	
+	/*step3 page css*/
+	
+	.facebook-btn{ padding: 10px 15px !important; margin:0 0 0 10px !important;}
+	#fileselector{ width: auto;}
+	
+/*	singleproduct page css*/
+	.Inner_Deal{display: table-cell;}
+	.Inner_Deal > ul > li > span{ display: list-item;}
+	
+	.Inner_Deal > ul > li > span { display: list-item;}
+	.Inner_Deal > ul > li{ width: 21%;}
+	
+	
+/*shopsetting page css*/
+	
+	.add-lk-map{padding-left: 21%;padding-top: 35%;}
+	.map-logo-box{width: 54%;}
+	.add-lk-map > .add-map{ width: 81%;}
+	.shop-st-ab .btn-primary{ margin: 0px 0 0 15px;}
+	.shop-st-lng p{ float: left; width: 100%;}
+	
+	
+	
+/*shopdesign page css*/
+	
+	.AlsoContact > ul > li{ width: 100%; margin-bottom: 20px;}
+	.rv-pic-dtl{font-size: 15px; margin-top: 0px; padding: 16px 0;}
+	
+	
+	
+}
+
+/*========================================================================================*/
+
+
+@media only screen and (max-width:568px){	
+	
+}
+
+/*========================================================================================*/
+
+@media only screen and (max-width:533px){	
+	.hotdeal-area > .country-area > ul > li{width: 45%;}
+	
+	/*picup red area css*/
+	
+	.pickup-proces-box > .sml-title{ font-size: 17px; padding: 110px 15px 3px;}
+	.pickup-proces-box > .big-title{font-size: 28px;}
+	
+	
+	/*top nav area css*/
+	
+	.logo-area{text-align: center;}
+	.search-area{ width: 100%; float: none; }
+	.src-fld{width: 100%; float: none;}
+	.spr_selector{ width: 87.2%;border-left: medium none;}
+	.cart-area{ position: absolute;margin-top: 21px;}
+	.cart-count{margin-right: 31px; margin-top: -9px;}
+	.nav-area{ margin-top: 0px;}
+	
+	/*footer css*/
+
+	.ftr-social > ul > li > a{ margin-left: 0px;}
+	.tfr-btm{ text-align: center;}
+	.ftr-social{ text-align: center;}
+	.ftr-social > ul > li > a{font-size: 15px;}
+	.ftr-social > ul > li{display: table-cell; float: none;}
+	.ftr-social > ul{display: inline-table;float: none;}
+	.ftr-inner{ height: auto;}
+	
+	.code-box{ margin: 10px 0;float: none;}
+}
+
+
+
+/*========================================================================================*/
+
+
+@media only screen and (max-width:480px){
+	
+.hotdeal-area > .country-area > ul > li{width: 44%;}
+.code-box{ margin: 10px auto;float: none;}
+.Local-Del-box .input-append, .input-prepend{ float: left; width: 100%; margin-bottom: 15px;}
+.PostL5{font-size: 15px;}
+.ALinks	{font-size: 15px;}
+	.idhideBox4 > h2{font-size: 18px;}
+	.subtext{ font-size: 16px; padding-left: 15px;}
+	
+}
+
+/*========================================================================================*/
+
+
+@media only screen and (max-width:414px){
+	
+.hotdeal-area > .country-area > ul > li{width: 100%;}	
+}
+
+
+/*========================================================================================*/
+
+
+@media only screen and (max-width:375px){
+	.hotdeal-area > .country-area > ul > li{width: 100%;}
+	
+}
+
+
+/*========================================================================================*/
+
+@media only screen and (min-width:320px) and (max-width:480px){
+	
+	/*top nav area css*/
+	
+	.logo-area{text-align: center;}
+	.search-area{ width: 100%; float: none; }
+	.src-fld{width: 100%; float: none;}
+	.spr_selector{ width: 87.2%;border-left: medium none;}
+	.cart-area{ position: absolute;margin-top: 21px;}
+	.cart-count{margin-right: 31px; margin-top: -9px;}
+	.nav-area{ margin-top: 0px;}
+	
+	/*footer css*/
+	
+	.tfr-btm{ text-align: center;}
+	.ftr-social{ text-align: center;}
+	.ftr-social > ul > li > a{font-size: 15px;}
+	.ftr-social > ul > li{display: table-cell; float: none;}
+	.ftr-social > ul{display: inline-table;float: none;}
+	.ftr-inner{ height: auto;}
+	
+	.fnd-delivery-area > h2{ font-size: 15px;}
+	.hotdeal-area > h2{font-size: 15px;}
+	.best-deal-area > h2{font-size: 15px;}
+	
+	.facebook-btn i{ display: none;}
+	.facebook-btn{font-size: 11px !important; margin:0 0 10px 0 !important;}
+	/*.pickitem-frm-box{ text-align: center;}*/
+	.pickitem-frm-box h4{ font-size: 14px; line-height: 22px}
+	
+	/*step3 page css*/
+	
+	.chk{ margin: 20px 0;  display: table; float: none;}
+	.signup-div h4{ font-size: 15px;}
+
+	/*singleproduct page css*/
+	
+
+	.uk-d-img{ margin: 8px auto; float: none;}
+	.uk-d-img-left{ float: none; width: 100%;}
+	.uk-deal-add > i{height: 70px;}
+	.Inner_Deal {  display: inherit;}
+	
+	
+	/*shopsetting page css*/
+	
+	.add-lk-map{padding-left: 21%;padding-top: 41%; }
+	.map-logo-box{width: 54%;}
+	.add-lk-map > .add-map{ width: 81%;}
+	.shop-st-ab .btn-primary{ margin: 0px 0 0 15px;}
+	
+	
+	/*shopdesign page css*/
+	
+	.AlsoContact > ul > li{ width: 100%; margin-bottom: 20px;}
+	.rv-pic-dtl{font-size: 15px; margin-top: 0px; padding: 16px 0;}
+	
+	
+}
+
+/*========================================================================================*/
+
+@media only screen and (max-width:320px){
+	.pickup-proces-box > .sml-title{font-size: 14px; font-weight: bold; padding: 52px 15px 3px;}
+	.pickup-proces-box > .big-title{font-size: 24px;}
+	.ftr-social > ul > li > a{ margin-left: 0px;}
+		
+}

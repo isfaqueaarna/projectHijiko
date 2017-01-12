@@ -1,0 +1,59 @@
+.menu a, .menu li {
+	display: block;
+	width: 100%
+}
+.menu {
+	background: #fafafa;
+	border-radius: 2px;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 2px 8px 0 rgba(0,0,0,.12);
+	color: #757575;
+	padding: 16px 0;
+	top:150px !important;
+	transform: scale(0);left: 67px !important;
+	transition: transform .2s; width: 40%; position: absolute; z-index: 999;
+}
+
+.menu h2{font-size: 18px; margin: 0px; padding: 0 15px; color: #000;}
+
+.menu li.menu-separator:hover, .menu li:hover {
+	background:#f16160; 
+}
+.menu.show {
+	transform: scale(1)
+}
+.menu.menu--right {
+	transform-origin: top right
+}
+.menu.menu--left {
+	transform-origin: top left
+}
+.menu li {
+	min-height: 32px;
+	line-height: 16px;
+	margin: 8px 0;
+	padding: 0 16px
+}
+.menu li.menu-separator {
+	background: #eee;
+	height: 1px;
+	min-height: 0;
+	margin: 12px 0;
+	padding: 0
+}
+.menu li:first-child {
+	margin-top: 0
+}
+.menu li:last-child {
+	margin-bottom: 0
+}
+.menu a {
+	color: inherit;
+	height: 32px;
+	line-height: 32px;
+	padding: 0;
+	text-decoration: none;
+	white-space: nowrap
+}
+.menu a:hover {
+	color: #fff;
+}
